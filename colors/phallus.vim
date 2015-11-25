@@ -78,7 +78,7 @@ let s:cyan = { "gui": "#70918C", "cterm": "66", "cterm16": "6"} " Alternate cter
 
 let s:white = { "gui": "#A1A9B6", "cterm": "145", "cterm16" : "7" }
 
-let s:black = { "gui": "#24222B", "cterm": "16", "cterm16": "8" }
+let s:black = { "gui": "#44475A", "cterm": "59", "cterm16": "8" }
 
 let s:comment_grey = { "gui": "#5C6670", "cterm": "59", "cterm16": "15" }
 let s:gutter_fg_grey = { "gui": "#636D83", "cterm": "238", "cterm16": "15" }
